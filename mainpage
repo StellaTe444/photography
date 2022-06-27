@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Stella Te</title>
+</head>
+
+<body>
+    
+    <header>
+        
+        <h1 id="MyName">STELLA TE</h1>
+
+        <nav>
+            <figure id="image">
+                <a href="https://www.instagram.com/p/CWpzNKjrpNh">
+                <img alt="A picture from Stella Te"
+                    title="Night on Regent Street"
+                    width="240"
+                    src="https://lh3.googleusercontent.com/civnJG0AZdqpbZ4VM9Ubl0d2XpqqU2H3MKSdCLt6Q29ZfUUDEhUGACoy4FCRxwQh74gM_QDxIscwXrFrWSGFdtWPHbsdgejjR4ih-jiO2qBFdRs3TDatFEjvBazLom18CZcDPEBW8A=w2400">
+                </a>
+                <figcaption>Fig - Night on Regent Street.</figcaption>
+            </figure>
+            <br>
+            <p><a href="https://www.instagram.com/stella_te_/">@stella_te_</a></p>
+            <p id="Occupation"><h3><mark>Photographer</mark></h3></p>
+            <p id="Quote"><q><i>Life is only interesting if life is wide.</i></q></p>
+        </nav>
+
+    </header>
+
+    <br>
+    <hr>
+    <br>
+
+    <section>
+
+        <p id="PastDestinations">
+        <details>   
+            <summary>Places I have been:</summary>
+            <ol type="I">
+                <li>UK.</li>
+                <li>Norway.</li>
+                <li>China.</li>
+            </ol>
+        </details>
+        </p>
+
+        <br>
+
+        <p id="FutureDestinations">
+        <details>
+            <summary>Future distinations:</summary>
+            <ol type="I">
+                <li>Croatia.</li>
+                <li>Portugal.</li>
+                <li>Iceland.</li>
+            </ol>  
+         </details>
+        </p>
+
+    </section> 
+ 
+    <br>
+    <br>
+
+    <footer>
+        <p id="WrittenBy">Written by: Stella Liu</p>
+    </footer>    
+
+</body>
+
+</html>
